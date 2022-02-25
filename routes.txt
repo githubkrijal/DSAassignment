@@ -1,0 +1,4 @@
+1;Gokarna;gg
+2;Jorpati;jj
+3;Chabahil;cc
+4;Softwarica;ss
